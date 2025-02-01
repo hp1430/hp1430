@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Himanshu Parashar
 
-![Himanshu's GitHub Banner](https://github.com/hp1430/banner.png)  
+![Himanshu's GitHub Banner](https://raw.githubusercontent.com/hp1430/YOUR-REPO/main/assets/banner.png)  
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** and **Programmer** currently pursuing my **B.Tech (7th Semester) at AKTU**. I love solving problems, building scalable applications, and exploring new technologies.
