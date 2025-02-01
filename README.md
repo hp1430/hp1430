@@ -10,7 +10,7 @@ I'm a passionate **Full-Stack Developer** and **Programmer** currently pursuing 
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
-- **Concepts:** OOP, Operating Systems, DBMS, Computer Networks
+- **Concepts:** OOPs, Operating Systems, DBMS, Computer Networks
 
 ## 🏆 Achievements
 - **400+ DSA Questions Solved**
