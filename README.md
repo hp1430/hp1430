@@ -1,9 +1,34 @@
-- 👋 Hi, I’m @hp1430
-- 👀 I’m interested in Backend Technologies
-- 🌱 I’m currently exploring Frontend Technologies
-- 📫 Reach me at : https://www.linkedin.com/in/hp1430
+# Hi there! 👋 I'm Himanshu Parashar
 
-<!---
-hp1430/hp1430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Himanshu's GitHub Banner](https://github.com/hp1430/banner.png)  
+
+## 🚀 About Me
+I'm a passionate **Full-Stack Developer** and **Programmer** currently pursuing my **B.Tech (7th Semester) at AKTU**. I love solving problems, building scalable applications, and exploring new technologies.
+
+## 💻 Tech Stack
+- **Languages:** C, C++, JavaScript
+- **Frontend:** HTML, CSS, Tailwind CSS, React.js
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Version Control:** Git, GitHub
+- **Concepts:** OOP, Operating Systems, DBMS, Computer Networks
+
+## 🏆 Achievements
+- **400+ DSA Questions Solved**
+- **Ranked 107 in PW Conquest 2023**
+
+## 🔥 Notable Projects
+- 🕹 **Hangman Game (React.js)** ([Live Demo](https://66f78b1e778c4d5a24eb3f25--hp1430hangman.netlify.app/) | [Repo](https://github.com/hp1430/Hangman-Game))
+- 🖥 **InstantCodeLab (CodeSandbox Clone)** ([Repo](https://github.com/hp1430/Project-IDX)) | ([Live Demo](https://drive.google.com/file/d/1Z2DZxtLogasFYCpviH8tzxP14zBkZ588/view)
+- 📺 **Adaptive Video Streaming App** ([Repo](https://github.com/hp1430/Adaptive-Video-Streaming-Application)) | ([Live Demo](https://drive.google.com/file/d/1KPS472YleFprbn4SOWggfzzAo0DXZgb5/view)
+
+
+## 💬 Connect With Me
+- 📩 Email: **himanshuparashar41@gmail.com**
+- 💼 LinkedIn: [Himanshu Parashar](www.linkedin.com/in/hp1430)
+- 🌐 Portfolio: [Coming Soon!]
+
+## 🎯 GitHub Stats
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hp1430&show_icons=true&theme=radical)
+
+🌟 **Feel free to explore my repositories, star the ones you like, and connect with me for collaborations!**
