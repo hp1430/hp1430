@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Himanshu Parashar
 
-![Himanshu's GitHub Banner](https://raw.githubusercontent.com/hp1430/YOUR-REPO/main/assets/banner.png)  
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** and **Programmer** currently pursuing my **B.Tech (7th Semester) at AKTU**. I love solving problems, building scalable applications, and exploring new technologies.
@@ -18,7 +17,7 @@ I'm a passionate **Full-Stack Developer** and **Programmer** currently pursuing 
 - **Ranked 107 in PW Conquest 2023**
 
 ## 🔥 Notable Projects
-- 🕹 **Hangman Game (React.js)** ([Live Demo](https://66f78b1e778c4d5a24eb3f25--hp1430hangman.netlify.app/) | [Repo](https://github.com/hp1430/Hangman-Game))
+- 🕹 **Hangman Game (React.js)**  [Repo](https://github.com/hp1430/Hangman-Game)) | ([Live Demo](https://66f78b1e778c4d5a24eb3f25--hp1430hangman.netlify.app/)
 - 🖥 **InstantCodeLab (CodeSandbox Clone)** ([Repo](https://github.com/hp1430/Project-IDX)) | ([Live Demo](https://drive.google.com/file/d/1Z2DZxtLogasFYCpviH8tzxP14zBkZ588/view)
 - 📺 **Adaptive Video Streaming App** ([Repo](https://github.com/hp1430/Adaptive-Video-Streaming-Application)) | ([Live Demo](https://drive.google.com/file/d/1KPS472YleFprbn4SOWggfzzAo0DXZgb5/view)
 
